@@ -4,55 +4,27 @@ Course Project for Discipline - Translation Methods - 4th Year, 1st Semester
 ---
 
 ## **Project Description**  
-This project was created as part of the coursework for Plovdiv University. It showcases the application of concepts learned in [Course Name].
+This project was created as part of the coursework for Plovdiv University. It showcases the application of concepts learned in Translation Methods.
 
-- **Course:** [Course Name]  
-- **Instructor:** [Instructor Name]  
-- **Purpose:** [Describe the main goal or purpose of this project.]  
-- **Key Objectives:**  
-  - Implement [specific feature or concept].  
-  - Demonstrate understanding of [specific topic].  
+This is a **Compiler Project**, developed as part of the coursework for Translation Methods at Plovdiv University. The compiler takes basic C code as input and translates it into an intermediate representation or machine code.
+
+- **Purpose:** To understand the fundamental concepts of compiler design, including lexical analysis, parsing, and code generation.
 
 ---
 
-## **Requirements**  
-To run this project, you will need the following:  
-- [Dependency/Software Name] - [Version or Link]  
-- [Another Dependency]  
-
----
-
-## **Usage**  
-This project allows you to:  
-- Access [Feature 1].  
-- Interact with [Feature 2].  
-- Use the application to [Purpose/Goal].  
-
----
-
-## **Features**  
-This project includes the following features:  
-- **Feature 1:** Brief description.  
-- **Feature 2:** Brief description.  
-- **Feature 3:** Brief description.  
-
----
-
-## **Technologies Used**  
-This project utilizes the following technologies:  
-
+## **Tech Stack**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="80" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="C# Logo" width="80" />
 
 ---
 
-## **License**  
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for more details.
+
+## **Features**  
+This project includes the following features:  
+- **Lexical Analysis:** Tokenizes the input C code.  
+- **Syntax Analysis:** Parses the tokens using a grammar to create a parse tree.  
+- **Intermediate Code Generation:** Converts the parse tree into intermediate code.  
+- **Error Handling:** Detects syntax and semantic errors. 
 
 ---
 
-## **Author**  
-- **Name:** [Your Full Name]  
-- **Email:** [your.email@example.com]  
-- **GitHub:** [https://github.com/yourusername]  
-- **LinkedIn:** [Your LinkedIn Profile (Optional)]  
