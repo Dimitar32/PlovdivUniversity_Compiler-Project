@@ -12,9 +12,11 @@ This is a **Compiler Project**, developed as part of the coursework for Translat
 
 ---
 
-## **Tech Stack**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="80" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="C# Logo" width="80" />
+## 🛠️ **Tech Stack**  
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="C# Logo" width="80" />
+</p>
 
 ---
 
