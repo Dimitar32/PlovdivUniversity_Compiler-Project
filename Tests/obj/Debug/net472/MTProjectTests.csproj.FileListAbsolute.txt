@@ -1,0 +1,5 @@
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\Tests\obj\Debug\net472\MTProjectTests.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\Tests\obj\Debug\net472\MTProjectTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\Tests\obj\Debug\net472\MTProjectTests.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\Tests\obj\Debug\net472\MTProjectTests.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\Tests\obj\Debug\net472\MTProjectTests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|c:\\users\\dimit\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\plovdivuniversity-compilerproject\\c#\\sharpdevelop\\emit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:emit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\example.scs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:example.scs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\tablesymbols\\methodsymbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:tablesymbols\\methodsymbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\tokens\\specialsymboltoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:tokens\\specialsymboltoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\tokens\\identtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:tokens\\identtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\tokens\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:tokens\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\tablesymbols\\typesymbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:tablesymbols\\typesymbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\defaultdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:defaultdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\diagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}|scsc.csproj|solutionrelative:diagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Parser.cs",
+              "RelativeDocumentMoniker": "Parser.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Parser.cs",
+              "RelativeToolTip": "Parser.cs",
+              "ViewState": "AQIAAOwBAAAAAAAAAAAMwAACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:52:30.729Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "example.scs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\example.scs",
+              "RelativeDocumentMoniker": "example.scs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\example.scs",
+              "RelativeToolTip": "example.scs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T09:33:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Scanner.cs",
+              "RelativeDocumentMoniker": "Scanner.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Scanner.cs",
+              "RelativeToolTip": "Scanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:37:47.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpecialSymbolToken.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Tokens\\SpecialSymbolToken.cs",
+              "RelativeDocumentMoniker": "Tokens\\SpecialSymbolToken.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Tokens\\SpecialSymbolToken.cs",
+              "RelativeToolTip": "Tokens\\SpecialSymbolToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:39:46.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compiler.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Compiler.cs",
+              "RelativeDocumentMoniker": "Compiler.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Compiler.cs",
+              "RelativeToolTip": "Compiler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:02:32.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:35:37.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emit.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Emit.cs",
+              "RelativeDocumentMoniker": "Emit.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Emit.cs",
+              "RelativeToolTip": "Emit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:50:24.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MethodSymbol.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\TableSymbols\\MethodSymbol.cs",
+              "RelativeDocumentMoniker": "TableSymbols\\MethodSymbol.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\TableSymbols\\MethodSymbol.cs",
+              "RelativeToolTip": "TableSymbols\\MethodSymbol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:47:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TypeSymbol.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\TableSymbols\\TypeSymbol.cs",
+              "RelativeDocumentMoniker": "TableSymbols\\TypeSymbol.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\TableSymbols\\TypeSymbol.cs",
+              "RelativeToolTip": "TableSymbols\\TypeSymbol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:56:54.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentToken.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Tokens\\IdentToken.cs",
+              "RelativeDocumentMoniker": "Tokens\\IdentToken.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Tokens\\IdentToken.cs",
+              "RelativeToolTip": "Tokens\\IdentToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:33:40.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Tokens\\Token.cs",
+              "RelativeDocumentMoniker": "Tokens\\Token.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Tokens\\Token.cs",
+              "RelativeToolTip": "Tokens\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:27:07.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DefaultDiagnostics.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\DefaultDiagnostics.cs",
+              "RelativeDocumentMoniker": "DefaultDiagnostics.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\DefaultDiagnostics.cs",
+              "RelativeToolTip": "DefaultDiagnostics.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:06:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Diagnostics.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Diagnostics.cs",
+              "RelativeDocumentMoniker": "Diagnostics.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\Diagnostics.cs",
+              "RelativeToolTip": "Diagnostics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:40:51.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

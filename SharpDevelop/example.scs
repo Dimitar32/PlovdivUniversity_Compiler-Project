@@ -1,0 +1,3 @@
+﻿A = scanf();
+A++;
+printf(A);

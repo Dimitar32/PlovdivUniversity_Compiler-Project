@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\Tests\\MTProjectTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\scsc.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\scsc.csproj",
+        "projectName": "scsc",
+        "projectPath": "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\scsc.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\Tests\\MTProjectTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\Tests\\MTProjectTests.csproj",
+        "projectName": "MTProjectTests",
+        "projectPath": "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\Tests\\MTProjectTests.csproj",
+        "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\scsc.csproj": {
+                "projectPath": "C:\\Users\\dimit\\OneDrive\\Работен плот\\PlovdivUniversity-CompilerProject\\C#\\SharpDevelop\\scsc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

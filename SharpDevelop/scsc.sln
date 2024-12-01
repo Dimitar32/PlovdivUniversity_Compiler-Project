@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scsc", "scsc.csproj", "{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTProjectTests", "..\Tests\MTProjectTests.csproj", "{55966F64-1F61-47E4-9EE4-9E8F571BD0C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBDC327-6EA3-4178-9A06-0413CAD18DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55966F64-1F61-47E4-9EE4-9E8F571BD0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55966F64-1F61-47E4-9EE4-9E8F571BD0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55966F64-1F61-47E4-9EE4-9E8F571BD0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55966F64-1F61-47E4-9EE4-9E8F571BD0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD0C0F4E-BE66-47E3-9762-8747DD19B170}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = scsc.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeIndexerDeclarationBracket = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.StandardHeader = $3
+		$3.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal

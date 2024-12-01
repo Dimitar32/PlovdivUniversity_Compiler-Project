@@ -1,0 +1,7 @@
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\SharpDevelop\bin\Debug\scsc.exe.config
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\SharpDevelop\bin\Debug\scsc.exe
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\SharpDevelop\bin\Debug\scsc.pdb
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\SharpDevelop\obj\Debug\scsc.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\SharpDevelop\obj\Debug\scsc.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\SharpDevelop\obj\Debug\scsc.exe
+C:\Users\dimit\OneDrive\Работен плот\MTProject\C#\SharpDevelop\obj\Debug\scsc.pdb
